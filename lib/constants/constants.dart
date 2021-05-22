@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
 
-double height ;
-double width ;
+late double height ;
+late double width ;
